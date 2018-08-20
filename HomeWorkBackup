@@ -1,0 +1,2 @@
+3) bcp datatest.dbo.One out C:\copy\1.xls -S localhost -T -c
+A-306-02
